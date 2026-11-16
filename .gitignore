@@ -1,0 +1,4 @@
+# Abaikan seluruh script autofill
+AutoFill*
+*.js
+
